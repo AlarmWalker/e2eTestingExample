@@ -15,8 +15,8 @@ https://github.com/user-attachments/assets/32785def-99ba-43e8-b9b3-8c3d0f4dbab8
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/e2e-testing.git
-   cd e2e-testing
+   git clone https://github.com/AlarmWalker/e2eTestingExample.git
+   cd e2eTestingExample
    ```
 
 2. **Install the dependencies:**
