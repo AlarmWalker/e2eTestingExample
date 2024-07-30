@@ -34,7 +34,7 @@ https://github.com/user-attachments/assets/32785def-99ba-43e8-b9b3-8c3d0f4dbab8
 To run all tests:
 
 ```bash
-npx wdio run
+npm wdio run
 ```
 
 To run a specific test file:
