@@ -2,10 +2,7 @@
 
 This repository contains end-to-end (E2E) tests for my portfolio website and future tests for an e-commerce site. The tests are written using WebdriverIO and Jasmine framework to ensure that the web applications work as expected.
 
-<video width="600" controls>
-  <source src="./assets/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/32785def-99ba-43e8-b9b3-8c3d0f4dbab8
 
 ## Table of Contents
 
