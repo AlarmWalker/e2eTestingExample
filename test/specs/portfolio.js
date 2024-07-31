@@ -16,6 +16,22 @@ describe('my portfolio page', () => {
         expect(await page.about.getText()).toBe("About Me");
     })
 
+    it('should display experience', async () => {
+        expect(await page.experience.getText()).toBe("Experience");
+    })
+
+    it('should display education', async () => {
+        expect(await page.education.getText()).toBe("Education");
+    })
+
+    it('should display projects', async () => {
+        expect(await page.projects.getText()).toBe("Projects");
+    })
+
+    it('should display skills', async () => {
+        expect(await page.skills.getText()).toBe("Skills");
+    })
+
     it('should open a demo page', async () => {
         await page.demoLink.click();
         const handles = await browser.getWindowHandles();

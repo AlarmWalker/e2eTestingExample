@@ -18,6 +18,22 @@ class Page {
         return $('.heading');
     }
 
+    get  experience() {
+        return $$('.heading')[1];
+    }
+
+    get  education() {
+        return $$('.heading')[2];
+    }
+
+    get  projects() {
+        return $$('.heading')[3];
+    }
+
+    get  skills() {
+        return $$('.heading')[4];
+    }
+
     get demoLink() {
         return $('#demoLink');
     }
